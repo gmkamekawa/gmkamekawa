@@ -1,47 +1,35 @@
 # 👋 ¡Hola! Soy Genta
 
-Soy desarrollador con interés en el desarrollo web y la creación de experiencias interactivas.  
-Me gusta aprender nuevas tecnologías y mejorar mis habilidades a través de proyectos personales.
+Soy desarrollador junior con experiencia en **desarrollo de videojuegos** y **desarrollo web**.  
+Me gusta aprender constantemente y seguir mejorando mis habilidades.
 
 ---
 
 ## 🚀 Tecnologías que uso
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Herramientas:** Git, GitHub, Visual Studio Code  
+
+### 🎮 Desarrollo de Videojuegos
+- C#
+- Unity
+
+### 💻 Desarrollo Web
+- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap, UX/UI, Fetch, Axios  
+- **Backend:** Java, APIs, JSON Server  
+- **Bases de datos:** MySQL Workbench, Postman
 
 ---
 
 ## 🧩 Proyectos destacados
-- 🛒 **Ecommerce Web** – Proyecto con React donde trabajé en la interfaz y funcionalidades principales.  
-- 🎮 **Videojuego 2D** – Creación y diseño de enemigos, QA y pruebas de comportamiento.
-
----
-
-## 📚 Actualmente aprendiendo
-- Profundizando en React y desarrollo web moderno.
+- 🎮 **M13_Proyecto_Final_Testing** – Proyecto final del CFGS: demo de un videojuego hack & slash.  
+- 🎮 **Juego 2D** – Proyecto pequeño de un videojuego de naves en 2D.  
+- 🛒 **Ecommerce** – Proyecto de una tienda online de plantas, creado con React.  
+- 🧙‍♂️ **Magic Cards Gallery** – Proyecto sencillo para practicar React y consumo de APIs.
 
 ---
 
 ## 📫 Cómo contactarme
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- ✉️ genta@example.com (opcional)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
+- ✉️ gentaroa1@gmail.com
 
 ---
 
-⭐ Gracias por visitar mi perfil. Siempre abierto a aprender y colaborar.
-
-
-<!--
-**gmkamekawa/gmkamekawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Gracias por visitar mi perfil.
