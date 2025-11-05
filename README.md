@@ -27,7 +27,7 @@ Me gusta aprender constantemente y seguir mejorando mis habilidades.
 ---
 
 ## 📫 Cómo contactarme
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gmkamekawa)  
 - ✉️ gentaroa1@gmail.com
 
 ---
