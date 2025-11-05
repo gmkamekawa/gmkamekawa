@@ -21,8 +21,8 @@ Me gusta aprender constantemente y seguir mejorando mis habilidades.
 ## 🧩 Proyectos destacados
 - 🎮 **M13_Proyecto_Final_Testing** – Proyecto final del CFGS: demo de un videojuego hack & slash.  
 - 🎮 **Juego 2D** – Proyecto pequeño de un videojuego de naves en 2D.  
-- 🛒 **Ecommerce** – Proyecto de una tienda online de plantas, creado con React.  
-- 🧙‍♂️ **Magic Cards Gallery** – Proyecto sencillo para practicar React y consumo de APIs.
+- 💻 **Ecommerce** – Proyecto de una tienda online de plantas, creado con React.  
+- 💻 **Magic Cards Gallery** – Proyecto sencillo para practicar React y consumo de APIs.
 
 ---
 
