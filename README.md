@@ -1,5 +1,14 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Genta;"/>
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.demolab.com?lines=%C2%A1Hola!+Soy+Genta&color=FFFFFF&center=true&vCenter=true&width=500"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?lines=%C2%A1Hola!+Soy+Genta&color=000000&center=true&vCenter=true&width=500"
+      alt="Typing SVG"
+    />
+  </picture>
 </h1>
 
 Soy desarrollador junior con estudios en **desarrollo de videojuegos** y **desarrollo web**.  
