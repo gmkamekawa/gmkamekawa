@@ -1,6 +1,6 @@
-#<p align="center">
-  👋 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Genta;Desarrollador+de+videojuegos+y+web"/>
-</p>
+#<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Genta;Desarrollador+de+videojuegos+y+web"/>
+</h1>
 
 Soy desarrollador junior con estudios en **desarrollo de videojuegos** y **desarrollo web**.  
 Me gusta aprender constantemente y seguir mejorando mis habilidades.
