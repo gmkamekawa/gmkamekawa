@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Genta;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Genta;"/>
 </h1>
 
 Soy desarrollador junior con estudios en **desarrollo de videojuegos** y **desarrollo web**.  
