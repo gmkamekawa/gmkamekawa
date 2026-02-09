@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Genta
 
-Soy desarrollador junior con experiencia en **desarrollo de videojuegos** y **desarrollo web**.  
+Soy desarrollador junior con estudios en **desarrollo de videojuegos** y **desarrollo web**.  
 Me gusta aprender constantemente y seguir mejorando mis habilidades.
 
 ---
@@ -8,13 +8,27 @@ Me gusta aprender constantemente y seguir mejorando mis habilidades.
 ## 🚀 Tecnologías que uso
 
 ### 🎮 Desarrollo de Videojuegos
-- C#
-- Unity
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 💻 Desarrollo Web
-- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap, UX/UI, Fetch, Axios  
-- **Backend:** Java, APIs, JSON Server  
-- **Bases de datos:** MySQL Workbench, Postman
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+#### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![JSON Server](https://img.shields.io/badge/JSON--Server-000000?style=for-the-badge&logo=json&logoColor=white)
+
+#### Bases de datos y testing
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
